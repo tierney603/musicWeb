@@ -1,0 +1,83 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3062926 */
+  src: url('iconfont.woff2?t=1640520614318') format('woff2'),
+       url('iconfont.woff?t=1640520614318') format('woff'),
+       url('iconfont.ttf?t=1640520614318') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zanting:before {
+  content: "\e618";
+}
+
+.icon-bofang:before {
+  content: "\e87c";
+}
+
+.icon-youxitianchong:before {
+  content: "\e6b5";
+}
+
+.icon-sousuo:before {
+  content: "\e651";
+}
+
+.icon-shezhi:before {
+  content: "\e660";
+}
+
+.icon-01:before {
+  content: "\e610";
+}
+
+.icon-paihangbang:before {
+  content: "\e66e";
+}
+
+.icon-zhengzaizhibo:before {
+  content: "\e6e2";
+}
+
+.icon-24gf-musicAlbum:before {
+  content: "\ea0f";
+}
+
+.icon-rementuijian:before {
+  content: "\e73d";
+}
+
+.icon-yinlegedanyinfu:before {
+  content: "\e72f";
+}
+
+.icon-a-tupianyihuifu-10:before {
+  content: "\e603";
+}
+
+.icon-mine:before {
+  content: "\e615";
+}
+
+.icon-find:before {
+  content: "\e60b";
+}
+
+.icon-attention:before {
+  content: "\e609";
+}
+
+.icon-Colud_Village:before {
+  content: "\e627";
+}
+
+.icon-podcast:before {
+  content: "\e693";
+}
+
